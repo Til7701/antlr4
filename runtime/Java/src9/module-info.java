@@ -1,4 +1,4 @@
-module org.antlr.antlr.runtime {
+module org.antlr.antlr4.runtime {
 	exports org.antlr.v4.runtime;
 	exports org.antlr.v4.runtime.atn;
 	exports org.antlr.v4.runtime.dfa;
